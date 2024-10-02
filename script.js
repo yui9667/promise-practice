@@ -2,6 +2,7 @@ function myPromise() {
   const pokemonName = document
     .getElementById('pokemonName')
     .value.toLowerCase();
+  //I wanted to not show imgElement before an user add name, but it seems does not work. Can you see what is the problem?
   const imgElement = document.getElementById('pokemonSprite');
   imgElement.style.display = 'none';
   if (!pokemonName) {
