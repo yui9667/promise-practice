@@ -1,4 +1,4 @@
-//* This is week7 assignment
+//*02/10/2024 week 7: Asynchronous Programming:Callbacks and Promises(week7's assignment)
 
 // function myPromise() {
 //   const pokemonName = document
